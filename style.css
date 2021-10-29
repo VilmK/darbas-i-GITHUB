@@ -26,7 +26,7 @@ a{
     box-sizing: border-box; 
 }
 .header-bg-img{
-background-image: url("../4\ praktinis\ darbas.Didelio\ tinklapio\ maketas/IMGheaderbackground.jpg");
+background-image: url("../darbas-i-GITHUB/IMGheaderbackground.jpg");
 background-color: RGB(141,203,242);
 background-position: center; 
 background-repeat: no-repeat;
@@ -128,7 +128,7 @@ article hr{
 }
 .box4{
     flex-basis: 700px;
-    background-image: url(IMG4.jpg);
+    background-image: url(IMG4.jpg)
     background-size: cover;
     background-position: center;
     flex-grow: 1;
